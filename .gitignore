@@ -1,0 +1,8 @@
+node_modules
+.angular
+.firebase
+dist
+environments/*
+environments/*.ts
+environment.ts
+environment.prod.ts

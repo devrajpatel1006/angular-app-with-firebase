@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "giva-hiring": {
+      "hosting": {
+        "firebase": [
+          "giva-hiring"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "giva-hiring"
+  }
+}
