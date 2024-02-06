@@ -25,7 +25,7 @@ export class UsersComponent implements OnInit {
       this.edit.emit(this.user);
       const docRef = doc(this.fstore, 'users', this.user.id);
       updateDoc(docRef, { disabled : this.user.disabled });
-      this.snackBar.open('Status changed successfully');
+      this.snackBar.open('Status changed successfully', 'Close', {duration: 2000});
 
 
     }
