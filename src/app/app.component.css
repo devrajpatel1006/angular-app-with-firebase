@@ -1,0 +1,19 @@
+header {
+    margin-bottom:20px
+}
+
+.content-wrapper {
+    padding-top: 50px;
+}
+
+#outer-container {
+    width:60%;
+}
+
+mat-card> .container {
+    justify-content: center;
+}
+
+.mat-toolbar-class{
+    justify-content: flex-end;
+}
