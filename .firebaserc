@@ -1,14 +1,14 @@
 {
   "targets": {
-    "giva-hiring": {
+    "fir-angular-c98b7": {
       "hosting": {
         "firebase": [
-          "giva-hiring"
+          "fir-angular-c98b7"
         ]
       }
     }
   },
   "projects": {
-    "default": "giva-hiring"
+    "default": "fir-angular-c98b7"
   }
 }
