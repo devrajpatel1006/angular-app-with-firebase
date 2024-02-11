@@ -24,17 +24,23 @@ Angular app with Firebase
    npm install
    ```
 
-2. Start the server:
+2. Start the server without Docker:
 
    ```bash
    ng serve
    ```
 
+Start the server with Docker:
+```bash
+docker-compose up --build
+
+````
+
 3. Project will run on
 
 ```bash
- http://localhost:4200/
-```
+http://localhost:4200/
+````
 
 4. Run the below command for create production build
 
